@@ -4,5 +4,4 @@ This repository contains an aggregation of some finance-related applications uti
 
 ### Implied Volatility
 Implied volatility curve generator using market data.
-
 #### Date
